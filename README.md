@@ -120,7 +120,7 @@ The workbook is organized into the following worksheets:
 | Worksheet | Purpose |
 |---|---|
 | Raw_Data | Original dataset |
-| Clean_Data | Prepared dataset |
+| Worksheet| Prepared dataset |
 | Analysis | Supporting calculations and analysis |
 | Pivot_Analysis | PivotTables and summarized results |
 | Dashboard | KPI cards and visualizations |
